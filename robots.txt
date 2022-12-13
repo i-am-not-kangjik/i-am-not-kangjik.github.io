@@ -6,4 +6,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://i-am-not-kangjik.github.io/sitemap.xml
+Sitemap: https://i-am-not-kangjik.github.io/sitemap1.xml
