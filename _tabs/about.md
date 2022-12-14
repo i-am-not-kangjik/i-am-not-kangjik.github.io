@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-<style type='text/css'>
+<!-- <style type='text/css'>
   [class*="containerV"] {
     display: flex;
     justify-content: space-between;}
@@ -64,4 +64,4 @@ order: 4
 <div class="content"><h3>어디서 / 인턴</h3>
 <div><span> 부서에서 인턴 진행<br>서비스를 구현</span></div>
 </div>
-</div>
+</div> -->
