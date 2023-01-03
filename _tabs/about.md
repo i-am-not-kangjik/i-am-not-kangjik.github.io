@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-<!-- <style type='text/css'>
+<style type='text/css'>
   [class*="containerV"] {
     display: flex;
     justify-content: space-between;}
@@ -35,20 +35,34 @@ order: 4
 
 <div class="containerE">
     <div class="period">
-        <span>2020-07-27 ~ 2020-08-21</span>
-        <span class="term">1 개월</span>
+        <span>2020-03-02</span>
+        <span class="term"></span>
     </div>
     <div class="content">
-        <h3>경험3</h3>
+        <h3>인천대학교</h3>
         <div>
-            <span>에서 과정 수료
+            <span>컴퓨터공학부
             <br>
-           자료구조, 네트워크 등을 배움</span>
+           일반편입</span>
+        </div>
+    </div>
+</div>
+<div class="containerE">
+    <div class="period">
+        <span>2020-03-02 ~<br>2022-02-18</span>
+        <span class="term">2년</span>
+    </div>
+    <div class="content">
+        <h3>인천대학교</h3>
+        <div>
+            <span>컴퓨터공학 전공
+            <br>
+           </span>
         </div>
     </div>
 </div>
 
-<div class="containerE">
+<!-- <div class="containerE">
 <div class="period"><span>2020-08-31 ~ 2020-12-18</span>
 <span class="term">4 개월</span>
 </div>
