@@ -29,7 +29,7 @@ order: 4
     font-weight: 500;}
 </style>
 
-안녕하세요! 소개 추가
+안녕하세요!
 
 ## Experience
 
