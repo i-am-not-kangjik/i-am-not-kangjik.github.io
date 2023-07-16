@@ -30,20 +30,20 @@ order: 4
 </style>
 
 안녕하세요!
-
+<p>웹 풀스택 개발자를 꿈꾸는 김강직 입니다.</p>
 ## Experience
 
 <div class="containerE">
     <div class="period">
-        <span>2020-03-02</span>
-        <span class="term"></span>
+        <span>2023-01-04 ~<br>2023-06-30</span>
+        <span class="term">6개월</span>
     </div>
     <div class="content">
-        <h3>인천대학교</h3>
+        <h3>플레이데이터</h3>
         <div>
-            <span>컴퓨터공학부
+            <span>데이터 엔지니어링 트랙 20기
             <br>
-           일반편입</span>
+           </span>
         </div>
     </div>
 </div>
@@ -61,17 +61,32 @@ order: 4
         </div>
     </div>
 </div>
+<div class="containerE">
+    <div class="period">
+        <span>2020-03-02</span>
+        <span class="term"></span>
+    </div>
+    <div class="content">
+        <h3>인천대학교</h3>
+        <div>
+            <span>컴퓨터공학부
+            <br>
+           일반편입</span>
+        </div>
+    </div>
+</div>
 
 <!-- <div class="containerE">
-<div class="period"><span>2020-08-31 ~ 2020-12-18</span>
+<div class="period">
+<span>2020-08-31 ~<br>2020-12-18</span>
 <span class="term">4 개월</span>
 </div>
 <div class="content"><h3>경험2</h3>
 <div><span>무슨무슨 과정 수료<br>동료와 함께 성장</span></div>
 </div>
-</div>
+</div> -->
 
-<div class="containerE">
+<!-- <div class="containerE">
 <div class="period"><span>2021-02-08 ~ 2021-03-05</span>
 <span class="term">1 개월</span>
 </div>
