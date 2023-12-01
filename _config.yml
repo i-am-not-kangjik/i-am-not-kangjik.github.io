@@ -87,14 +87,14 @@ avatar: assets/img/withAlpaca.JPG
 toc: true
 
 comments: 
-  active:     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'utterances'     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus: 
     shortname: 'kangjikblog'   # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: "i-am-not-kangjik/i-am-not-kangjik.github.io"        # <gh-username>/<repo>
-    issue_term: "pathname"  # < url | pathname | title | ...>
+    issue_term: "url"  # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo:              # <gh-username>/<repo>
