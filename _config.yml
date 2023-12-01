@@ -25,7 +25,7 @@ defaults:
       permalink: /posts/:title/
 exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]
 
-baseurl: "https://i-am-not-kangjik.github.io/"
+baseurl: ""
 
 
 google_site_verification: PgIs2wRUYdrvbcINZz2P-COS_yZn3FntsInGtjt7hj8
