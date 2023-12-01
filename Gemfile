@@ -7,7 +7,7 @@ gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem 'webrick'
 
-group :test do
-    gem 'html-proofer'
-  end
+# group :test do
+#     gem 'html-proofer'
+#   end
   
