@@ -1,46 +1,67 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+# Jekyll Theme Serial Programmer
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+> A Jekyll theme for serial programmers (-.-)
 
-The Jekyll organization claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+[Live Demo](https://sharadcodes.github.io/jekyll-theme-serial-programmer/)
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+## Features
 
-```shell
-.
-├── _config.yml
-├── _data
-├── _plugins
-├── _tabs
-└── index.html
-```
+- Responsive
+- Dark mode/Light mode
+- Syntax highlighting
+- Feed
+- Sitemap
+- and more...
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## How to install
 
-## Prerequisites
+1. Download or clone the repo
+   `git clone https://github.com/sharadcodes/jekyll-theme-serial-programmer.git`
+2. Enter the folder
+   `cd jekyll-theme-serial-programmer`
+3. Run
+   `bundle install`
+4. Start Jekyll server
+   `bundle exec jekyll serve`
+5. Access via
+   - localhost or according to your pc configurations.
+6. Change the `_config.yml` & `_data/author.yml` files as you like.
+7. Upload the files on your repository and :sunglasses: enjoy.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll` and `Bundler`.
+> NOTE: You have to remove `url` and `baseurl` from `_config.yml` to use this theme for `<your-username>.github.io`
 
-## Installation
+## Alert!
 
-[**Use this template**][use-template] to generate a brand new repository and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
+- Don't touch `categories.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill you click on.
+- You should use github [discussions](https://github.com/sharadcodes/jekyll-theme-serial-programmer/discussions) to ask any question.
+- Don't use issues to ask any question unless you are facing issue related to the theme, jekyll or any file.
 
-Then clone it to your local machine and run:
+## Asking for support!
 
-```
-$ bundle
-```
+Hello everyone, If you have used this theme and if it has helped you in any way or if you just want to support me for my open source work, you can support me by donating any amount.
 
-## Usage
+You can use the sponsor button at the top or on the right.
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+### [Github Sponsor Page](https://github.com/sponsors/sharadcodes)
 
-## License
+### Crypto Wallet: `0x6274B3b84a66DD87929CEa9d10a4187BC6E70169`
 
-This work is published under [MIT][mit] License.
+# Screenshots
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+## PC BLOG PAGE
+
+![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_blog_dm.png)
+
+![Blog page light mode](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_blog_lm.png)
+
+## PC POST EXAMPLE
+
+![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/pc_post.png)
+
+## PHONE BLOG PAGE
+
+![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_blog.png)
+
+## PHONE POST EXAMPLE
+
+![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-serial-programmer/main/screenshots/mobile_post.png)
