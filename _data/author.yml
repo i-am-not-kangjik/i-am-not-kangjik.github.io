@@ -1,6 +1,6 @@
 name: Kangjik Kim
 dp: https://avatars.githubusercontent.com/u/74352205?v=4
-description: "
+description: >
   <p>
     Kangjik Kim
   </p>
@@ -8,16 +8,13 @@ description: "
   <p>
     Junior Backend Developer
   </P>
-"
+  <br>
+  <p>
+    View on Velog: <a href="https://velog.io/@i-am-not-kangjik">My Velog</a>
+  </p>
 email: rkqqkb@gmail.com
 contact:
-  # - title: linkedin
-  #   url: https://www.linkedin.com/in/srsmaurya
   - title: github
     url: https://github.com/i-am-not-kangjik
-  # - title: twitter
-  #   url: https://twitter.com/iamsharadraj
-  # - title: dev
-  #   url: https://dev.to/sharadcodes
   - title: email
     url: mailto:rkqqkb@gmail.com
